@@ -4,4 +4,4 @@ Hi Viewer's 👋
 - 🌱 I’m currently a beginner... Even can't call me a beginner
 - 👯 Will se the best collaborators
 - ⚡ Fun fact: The world is full of gamer... Don't be the game changer... Be the game creator 😈😈
-- @the_nk_nayak
+-  Insta :-  @the_nk_nayak 
