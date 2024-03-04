@@ -5,3 +5,5 @@ Hi Viewer's 👋
 - 👯 Will se the best collaborators
 - ⚡ Fun fact: The world is full of gamer... Don't be the game changer... Be the game creator 😈😈
 -  Insta :-  @the_nk_nayak 
+-  Linkdln : -  Nishi Kant Nayak
+-  Twitter : - Nk_Nayak_
