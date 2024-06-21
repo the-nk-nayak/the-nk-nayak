@@ -7,3 +7,7 @@ Hi Viewer's 👋
 -  Insta :-  @the_nk_nayak 
 -  Linkdln : -  Nishi Kant Nayak
 -  Twitter : - Nk_Nayak_
+
+New Badge Included : - 
+
+https://assets.leetcode.com/static_assets/marketing/2024-50.gif
