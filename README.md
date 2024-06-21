@@ -10,4 +10,4 @@ Hi Viewer's 👋
 
 New Badge Included : - 
 
-https://assets.leetcode.com/static_assets/marketing/2024-50.gif
+https://badgen.net/https://assets.leetcode.com/static_assets/marketing/2024-50.gif
