@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/the-nk-nayak/the-nk-nayak/blob/main/computer-security-malware-computer-icons-attack-security-hacker-cyber-0c08be31cba0e5e69b469ae6848de715.png" alt="Cyber Photo" height="200" width="200" ></p>
+
+
 <h1 align="center">Hi 👋, I am Nishi Kant Nayak</h1>
 <h3 align="center">A passionate Cyber Security Analyst from India</h3>
 
