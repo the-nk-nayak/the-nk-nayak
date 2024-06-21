@@ -10,4 +10,7 @@ Hi Viewer's 👋
 
 New Badge Included : - 
 
-https://badgen.net/https://assets.leetcode.com/static_assets/marketing/2024-50.gif
+
+![image](https://github.com/the-nk-nayak/the-nk-nayak/assets/113226791/e85f8883-0036-4397-ae36-b2b9cce3400a)
+
+
