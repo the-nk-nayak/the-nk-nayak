@@ -27,6 +27,7 @@
 
 # Badges
 ![](https://github.com/the-nk-nayak/the-nk-nayak/blob/main/2024-50.gif)
+![](https://github.com/the-nk-nayak/the-nk-nayak/blob/main/Cybersecurity%20Badge.png)
 
 
 ## 🏆 GitHub Trophies
